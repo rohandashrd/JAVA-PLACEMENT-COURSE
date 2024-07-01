@@ -1,5 +1,3 @@
-package com.company;
-
 import java.util.Scanner;
 
 public class R11_AdvPattern4 {
